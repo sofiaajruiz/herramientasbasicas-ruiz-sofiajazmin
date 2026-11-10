@@ -39,12 +39,16 @@ Los resultados describen asociaciones, no causas. Los segmentos más chicos, com
   
 - Dashboard: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/dashboard/dashboard_bankmarketing.pbix
   
-- Dataset: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/tree/main/data
+  Captura de pantalla del dashboard: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/dashboard/dashboard.png
+  
+  <img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/9c718d8b-ca02-4ba1-a926-78a4296f52c4" />
+
+- Dataset: (https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/data/raw/bank-full.csv)
 
 ## Fuentes
 
-- Moro, S., Rita, P. y Cortez, P. (2014). *A data-driven approach to predict the success of bank telemarketing*. Decision Support Systems, 62, 22-31.
-- Moro, S., Rita, P. y Cortez, P. (2012). *Bank Marketing* [conjunto de datos]. UCI Machine Learning Repository.
+- Moro, S., Rita, P., & Cortez, P. (2014). *Bank Marketing* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306
+
 - Las capturas del dashboard son de elaboración propia.
   
 
