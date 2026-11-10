@@ -1,6 +1,6 @@
 # Perfil de clientes y aceptación del depósito a plazo
 
-**Autor/a:** Sofia Jazmin Ruiz
+**Autora:** Sofia Jazmin Ruiz
 
 **Curso:** Herramientas básicas para el Análisis de Datos - UTN BA.
 
