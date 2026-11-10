@@ -35,11 +35,11 @@ Los resultados describen asociaciones, no causas. Los segmentos más chicos, com
 
 ## Enlaces
 
-- Notebook:
-https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/tree/main/herramientasbasicas-ruiz-sofiajazmin/Notebooks
-
-- Dashboard:
-https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/herramientasbasicas-ruiz-sofiajazmin/Dashboard/dashboard_bankmarketing.pbix
+- Notebook: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/notebooks/Trabajo_Final_Integrador_Sofia_Jazmin_Ruiz.ipynb
+  
+- Dashboard: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/dashboard/dashboard_bankmarketing.pbix
+  
+- Dataset: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/tree/main/data
 
 ## Fuentes
 
