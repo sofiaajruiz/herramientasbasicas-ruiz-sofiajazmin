@@ -41,7 +41,8 @@ Los resultados describen asociaciones, no causas. Los segmentos más chicos, com
   
   Captura de pantalla del dashboard: https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/dashboard/dashboard.png
   
-  <img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/9c718d8b-ca02-4ba1-a926-78a4296f52c4" />
+<img width="883" height="496" alt="dashboard" src="https://github.com/user-attachments/assets/e8433a1c-02cd-4b83-8fa9-204362c0cc5c" />
+
 
 - Dataset: (https://github.com/sofiaajruiz/herramientasbasicas-ruiz-sofiajazmin/blob/main/data/raw/bank-full.csv)
 
