@@ -46,5 +46,5 @@ Los resultados describen asociaciones, no causas. Los segmentos más chicos, com
 - Moro, S., Rita, P. y Cortez, P. (2014). *A data-driven approach to predict the success of bank telemarketing*. Decision Support Systems, 62, 22-31.
 - Moro, S., Rita, P. y Cortez, P. (2012). *Bank Marketing* [conjunto de datos]. UCI Machine Learning Repository.
 - Las capturas del dashboard son de elaboración propia.
-REPOSITORIO	El nombre exacto de tu repositorio
-NOMBRE_NOTEBOOK	El nombre del .ipynb, por ejemplo herramientasbasicas_eda_bank_marketing
+  
+
