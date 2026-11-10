@@ -24,7 +24,7 @@ El original está en [`data/raw/`](data/raw/).
 
 ## Principales hallazgos
 
-- Estudiantes (28,7%) y jubilados (22,8%) aceptan más del doble que el promedio.
+- Estudiantes (28,7%) y jubilados (22,8%) tienen las tasas más altas por ocupación: casi el doble o más que el promedio (11,7%).
 - La tasa crece con el nivel educativo: de 8,6% en primaria a 15,0% en terciaria.
 - Por edad forma una U: es más alta en menores de 26 años y en mayores de 65.
 - Quienes aceptaron tienen un saldo mediano de 733 euros, frente a 417 de quienes no.
